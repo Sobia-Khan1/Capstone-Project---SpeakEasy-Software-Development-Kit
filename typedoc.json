@@ -1,0 +1,6 @@
+{
+    "entryPoints": ["src/VoiceControl.ts", "src/TextControl.ts"],
+    "out": "my-website/static/typedoc",
+    "entryPointStrategy": "expand",
+    "commentStyle": "jsdoc"
+}
